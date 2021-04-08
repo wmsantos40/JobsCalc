@@ -1,0 +1,5 @@
+git bash na pasta: jobscalc
+
+npm run dev
+
+http://localhost:3000/
